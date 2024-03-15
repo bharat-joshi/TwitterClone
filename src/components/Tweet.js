@@ -32,7 +32,7 @@ export default function Tweet() {
           <IoIosMore size={"26px"} />
         </div>
       </div>
-      <div className="flex justify-between px-3">
+      <div className="flex justify-between px-6">
         <div className="flex gap-1">
           <div>
             <FaComment size={"20px"} />
