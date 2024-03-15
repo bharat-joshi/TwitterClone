@@ -13,7 +13,7 @@ export default function LeftSidebar() {
             width={"24px"}
           />
         </div>
-        <div className="my-4">
+        <div className="flex flex-col my-4 gap-4">
           <div className="flex items-center gap-2 cursor-pointer rounded-full hover:bg-gray-100 px-2 py-2">
             <div>
               <CiHome  size={"24px"} />

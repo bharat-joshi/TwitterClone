@@ -1,5 +1,4 @@
 import React from "react";
-import { IoMdSettings } from "react-icons/io";
 
 export default function CreatePost() {
   return (
@@ -17,7 +16,7 @@ export default function CreatePost() {
       </div>
       <div className="flex px-4 py-4 gap-2">
         <img
-          class="inline-block h-14 w-14 rounded-full ring-2 ring-white"
+          className="inline-block h-14 w-14 rounded-full ring-2 ring-white"
           src="https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
           alt=""
         />
